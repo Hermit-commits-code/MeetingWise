@@ -1,0 +1,14 @@
+{
+  "name": "meetingwise-slackbot",
+  "version": "0.1.0",
+  "description": "MeetingWise: Slackbot for meeting cost awareness, reporting, and team productivity.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hermit-commits-code",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.14.0"
+  }
+}
